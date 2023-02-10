@@ -1,0 +1,63 @@
+
+
+
+/* Creado por Daniel Mena Lafebre */
+
+/* Estilo del header */
+#header1{ color: blue;
+
+
+
+}
+
+
+
+
+/* Estilo de el bloque general del contenido */
+#bloquetexto {
+    display: flex;
+    flex-basis: 200px;
+    margin: 2px;
+
+}
+
+
+
+/* Estilo de etiquetas de las cajas de texto */
+#paragraph1 {
+    
+ 
+    margin-right: 20px;
+    
+
+}
+
+#paragraph2 {
+    
+    
+    margin-right: 20px;
+    
+
+}
+
+
+
+
+/* Estilo de bloques de texto modificables */
+#bloque1 {
+    
+    border: black 1px solid;
+    max-height: 20px;
+    margin-right: 20px;
+    margin-top: 13px;
+    
+
+}
+
+#bloque2 {
+    
+    border: black 1px solid;
+    margin-right: 20px;
+    max-height: 20px;
+    margin-top: 13px;
+}
